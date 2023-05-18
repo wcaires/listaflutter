@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340670701164",
+    "project_id": "aulamatheus-304ae",
+    "storage_bucket": "aulamatheus-304ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340670701164:android:fafe4c915128cdd68fc249",
+        "android_client_info": {
+          "package_name": "com.example.listaflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340670701164-dqpp36bld151k8bce89lp4stm1ksee4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNB3FHDe0aW_HXJ67QOdMYHuJ17PpNr7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340670701164-dqpp36bld151k8bce89lp4stm1ksee4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
